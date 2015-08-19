@@ -1,6 +1,0 @@
-2. rm {fileName} => removes a file called {fileName}
-3. cat {fileName} => outputs the contents of {fileName} into the console
-4. mv {fileName} {newFileName}  => renames {fileName} to {newFileName}
-5. zip {targetFileName} {fileName} => zips {fileName} into {targetFileName}
-6. nano {fileName} => opens {fileName} in nano editor
-1. mkdir {folderName} => creates a folder called {folderName}
